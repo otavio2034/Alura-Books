@@ -4,5 +4,5 @@
 @import url("topicos.css");
 @import url("contato.css");
 @import url("rodapé.css");
-;root {
+:root {
     --cor-de-fundo: #EBECEE;
